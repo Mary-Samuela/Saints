@@ -8,7 +8,7 @@ body {
 }
 /* header */
 .header {
-    background-color: #4a76a8;
+    background-color: red;
     color: #ffffff;
     padding: 2rem;
     text-align: center;
@@ -22,7 +22,7 @@ body {
     margin-top: 1rem;
 }
 .nav {
-    background-color: #333;
+    background-color: #0000CD;
 }
 .nav ul {
     list-style: none;
@@ -45,15 +45,15 @@ body {
     border-radius: 5px;
 
 }
-/* biography */
+/* about this website */
 #bio {
     padding: 1,5rem;
     background: #f0f0f0;
     border-bottom: 2px solid #ccc;
     text-align: center;
 }
-.bioh2 {
-    color: #4a76a8;
+.about {
+    color: red;
     text-align: center;
     padding: 1rem 0.5rem;
 }
@@ -86,7 +86,7 @@ body {
     margin: 10px 0 0;
 }
 .footer-content {
-    background-color: #333;
+    background-color: red;
     color: white;
     text-align: center;
     padding: 15px;
