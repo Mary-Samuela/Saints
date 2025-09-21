@@ -50,6 +50,12 @@ body {
     padding: 1,5rem;
     background: #f0f0f0;
     border-bottom: 2px solid #ccc;
+    text-align: center;
+}
+.bioh2 {
+    color: #4a76a8;
+    text-align: center;
+    padding: 1rem 0.5rem;
 }
 /* Gallery */
 #gallery {
@@ -77,9 +83,18 @@ body {
 .saint p {
     margin: 10px 0 0;
 }
-.footer content {
+.footer-content {
     background-color: #333;
     color: white;
     text-align: center;
     padding: 15px;
+}
+.footer-content a {
+    color:white
+    text-decoration: none;
+    margin: 0 1rem;
+    transition: colour 2sec ease;
+}
+.footer-content a:hover {
+    color: #4a76a8;
 }
