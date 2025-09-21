@@ -74,6 +74,7 @@ body {
     width: 200px;
     text-align: center;
     overflow: hidden;
+    border-radius: 2rem;
 }
 .saint img {
     width: 100%;
