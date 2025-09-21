@@ -60,7 +60,7 @@ body {
 /* Gallery */
 #gallery {
     padding: 20px;
-    background-color:aliceblue;
+    background-color:rgb(198, 215, 230);
 }
 .gallery {
     display: flex;
