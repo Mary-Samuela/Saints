@@ -69,3 +69,11 @@ body {
     text-align: center;
     overflow: hidden;
 }
+.saint img {
+    width: 100%;
+    height: auto;
+    border-bottom: 2px solid #ccc;
+}
+.saint p {
+    margin: 10px 0 0;
+}
