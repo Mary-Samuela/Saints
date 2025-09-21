@@ -61,3 +61,11 @@ body {
     gap: 20px;
     justify-content:center;
 }
+.saint {
+    background: white;
+    padding: 10px;
+    border: 2px solid #ccc;
+    width: 200px;
+    text-align: center;
+    overflow: hidden;
+}
