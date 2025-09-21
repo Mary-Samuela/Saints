@@ -77,3 +77,16 @@ body {
 .saint p {
     margin: 10px 0 0;
 }
+.footer-content {
+    text-align:center;
+    margin: 0.5rem;
+}
+.footer-content a {
+    color: blue;
+    text-decoration: none;
+    margin: 0 1rem;
+    transition: colour 2sec ease;
+}
+.footer-content a:hover {
+    color: red;
+}
