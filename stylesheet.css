@@ -9,20 +9,21 @@ body {
 /* header */
 .header {
     background-color: red;
-    color: #ffffff;
+    color: rgb(81, 4, 4);
     padding: 2rem;
     text-align: center;
 }
 .header h1 {
     margin: 0;
     font-weight: 700;
+    color: wheat;
 }
 .quote {
     font-style: italic;
     margin-top: 1rem;
 }
 .nav {
-    background-color: #0000CD;
+    background-color:rgb(198, 215, 230);
 }
 .nav ul {
     list-style: none;
@@ -35,7 +36,7 @@ body {
     margin: 0 30px;
 }
 .nav a {
-    color: white;
+    color: rgb(81, 4, 4);
     text-decoration: none;
     padding: 10px;
     display: block;
@@ -89,9 +90,9 @@ body {
     background-color: red;
     color: white;
     text-align: center;
-    padding: 15px;
+    padding: 30px;
 }
-.footer-content a {
+.footer-socials p {
     color:white
     text-decoration: none;
     margin: 0 1rem;
